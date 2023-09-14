@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\10-20-ig\10-20-ig\bin\Debug\10-20-ig.exe.config
+C:\Users\User\source\repos\10-20-ig\10-20-ig\bin\Debug\10-20-ig.exe
+C:\Users\User\source\repos\10-20-ig\10-20-ig\bin\Debug\10-20-ig.pdb
+C:\Users\User\source\repos\10-20-ig\10-20-ig\obj\Debug\10-20-ig.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\10-20-ig\10-20-ig\obj\Debug\10-20-ig.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\10-20-ig\10-20-ig\obj\Debug\10-20-ig.exe
+C:\Users\User\source\repos\10-20-ig\10-20-ig\obj\Debug\10-20-ig.pdb
