@@ -1,0 +1,7 @@
+H:\c#\2023.09.05_Alapok\2023.09.05_Alapok\bin\Debug\2023.09.05_Alapok.exe.config
+H:\c#\2023.09.05_Alapok\2023.09.05_Alapok\bin\Debug\2023.09.05_Alapok.exe
+H:\c#\2023.09.05_Alapok\2023.09.05_Alapok\bin\Debug\2023.09.05_Alapok.pdb
+H:\c#\2023.09.05_Alapok\2023.09.05_Alapok\obj\Debug\2023.09.05_Alapok.csproj.AssemblyReference.cache
+H:\c#\2023.09.05_Alapok\2023.09.05_Alapok\obj\Debug\2023.09.05_Alapok.csproj.CoreCompileInputs.cache
+H:\c#\2023.09.05_Alapok\2023.09.05_Alapok\obj\Debug\2023.09.05_Alapok.exe
+H:\c#\2023.09.05_Alapok\2023.09.05_Alapok\obj\Debug\2023.09.05_Alapok.pdb
