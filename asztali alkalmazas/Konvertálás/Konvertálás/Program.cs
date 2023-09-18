@@ -74,12 +74,53 @@ namespace Konvertálás
             //int beegesz = Convert.ToInt32(be);
             int beegesz = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("A szám kétszerese" + beegesz * 2);
-            
+
 
             // HF feladatok 2021-2022-pdf 1-6
-            
 
-                
+            // 1.
+            int c = 10;
+            int d = 10;
+
+
+            Console.WriteLine("Kerület: " + (2 * (c + d)));
+            Console.WriteLine("Terület: " + (c * d));
+            //2.
+            double s = 5;
+            double PI = 3.1415926535897931;
+
+            Console.WriteLine("Kör atmeröje: " + (s *= 2));
+            Console.WriteLine("Kör Kerülete: " + (2 * s * PI));
+            Console.WriteLine("Kör területe: " + (s * s * PI));
+            //3.
+            double ha = 5;
+            double hb = 5;
+            double hc = 5;
+
+            s = ((ha + hb + hc) / 2);
+
+
+            Console.WriteLine("Háromszög kerülete: " + (s * 2));
+            Console.WriteLine("Háromszög kerülete: " + (Math.Sqrt(s * (s - ha) * (s - hb) * (s - hc))));
+            //4.
+            double szha = 5;
+
+            Console.WriteLine("Sz. Háromszög magassága: " + (Math.Sqrt(Math.Pow(szha, 2) + (Math.Pow(szha / 2, 2)))));
+
+            double sqrt = 5;
+            double sqrtla = Math.Sqrt(Math.Pow(sqrt, 2) + Math.Pow(sqrt, 2));
+
+
+            //5.
+            Console.WriteLine("Kocka lap átlója: " + sqrtla);
+            Console.WriteLine("Kocka test átlója: " + (Math.Sqrt(Math.Pow(sqrtla, 2) + Math.Pow(sqrt, 2))));
+            //6.
+            Console.Write("Vezetéknév: ");
+            string Vn = Console.ReadLine();
+            Console.Write("Keresztnév: ");
+            string Kn = Console.ReadLine();
+
+
             Console.ReadKey();
 
         }
