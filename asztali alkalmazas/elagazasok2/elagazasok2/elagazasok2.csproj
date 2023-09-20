@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AD22566B-6521-4510-A779-54008EC19937}</ProjectGuid>
+    <ProjectGuid>{30B85A60-64B9-43FC-A706-F8C8D75AF0EB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Elágazások</RootNamespace>
-    <AssemblyName>Elágazások</AssemblyName>
+    <RootNamespace>elagazasok2</RootNamespace>
+    <AssemblyName>elagazasok2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

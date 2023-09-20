@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elágazások", "Elágazások\Elágazások.csproj", "{AD22566B-6521-4510-A779-54008EC19937}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elagazasok2", "elagazasok2\elagazasok2.csproj", "{30B85A60-64B9-43FC-A706-F8C8D75AF0EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AD22566B-6521-4510-A779-54008EC19937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AD22566B-6521-4510-A779-54008EC19937}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AD22566B-6521-4510-A779-54008EC19937}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AD22566B-6521-4510-A779-54008EC19937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B85A60-64B9-43FC-A706-F8C8D75AF0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B85A60-64B9-43FC-A706-F8C8D75AF0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B85A60-64B9-43FC-A706-F8C8D75AF0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B85A60-64B9-43FC-A706-F8C8D75AF0EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {60319E24-F4F7-4E82-99BA-6126FB94140D}
+		SolutionGuid = {B619A55A-4B31-454C-8ED5-792808A9B8FB}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,7 @@
+H:\IPI\11.mindenweb\asztali alkalmazas\elagazasok2\elagazasok2\bin\Debug\elagazasok2.exe.config
+H:\IPI\11.mindenweb\asztali alkalmazas\elagazasok2\elagazasok2\bin\Debug\elagazasok2.exe
+H:\IPI\11.mindenweb\asztali alkalmazas\elagazasok2\elagazasok2\bin\Debug\elagazasok2.pdb
+H:\IPI\11.mindenweb\asztali alkalmazas\elagazasok2\elagazasok2\obj\Debug\elagazasok2.csproj.AssemblyReference.cache
+H:\IPI\11.mindenweb\asztali alkalmazas\elagazasok2\elagazasok2\obj\Debug\elagazasok2.csproj.CoreCompileInputs.cache
+H:\IPI\11.mindenweb\asztali alkalmazas\elagazasok2\elagazasok2\obj\Debug\elagazasok2.exe
+H:\IPI\11.mindenweb\asztali alkalmazas\elagazasok2\elagazasok2\obj\Debug\elagazasok2.pdb
