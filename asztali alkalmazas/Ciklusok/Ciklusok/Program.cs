@@ -24,6 +24,7 @@ namespace Ciklusok
             //ciklus amig(benmaradasi feltetel(ek))
             //        ciklus mag
             // c.v
+
             // while(benmaradasi feltetel(ek))
             //{
             //        cikls mag
@@ -51,29 +52,49 @@ namespace Ciklusok
             // irasson ki 15 db veletlen szamot [50, 1000] kozott
             // ugy, hogy a szam 10-zel oszhato legyen
             Random r = new Random();
-            int a = (r.Next(50, 1001));
+            
             
 
             for (int i = 0; i< 15; i +=1)
             {
                Console.Write( r.Next(5, 101) * 10 + " ");
             }
+            Console.WriteLine();
 
             // generalj ki veletlen szamokat [50,1000] addig amig 7-el oszthatot nem kapok
-            int a;
-            do
-            {
-                int b = (r.Next(50, 1001));
-                Console.WriteLine(a + " ");
 
-            }
-            while (a % 7 != 0);
+
 
             //hf 26 27 28
 
+            for (int i = 1; i < 11; i += 1)
+            {
+                int z = r.Next(5, 101);
+                Console.Write(z + " ");
+            }
+            Console.WriteLine();
 
 
+            //27
 
+            double  u = 0;
+
+            for (int i = 1; i < 11; i += 1)
+            {
+                int z = r.Next(5, 101);
+                u += z;
+                
+            }
+            Console.Write((u / 10) + " ");
+            Console.WriteLine();
+
+            //28
+            int l = r.Next(10, 100);
+            while (!(l % 7 == 0))
+            {
+                l = r.Next(10, 100);
+            }
+            Console.WriteLine(l+" ");
 
             Console.ReadKey();
         }
