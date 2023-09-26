@@ -1,0 +1,58 @@
+mondatszeru alkalmazas algoritmusnal
+pszeudokod
+
+szekvencia - utasitasok sorozata
+valtozo_nev= ertek
+be : valtozo_nev
+ki: valtozo_nev
+
+szelekcio - elagazasok
+ha feltetel(ek) akkor
+	szekvencia
+c.v.
+ha feltetel(ek) akkor
+	szekvencia1;
+kulonben
+	szekvencia2;
+c.v.
+ha feltetel(ek) akkor
+	szekvencia1;
+kulonben feltetel(ek
+	szekvencia2;
+c.v.
+
+
+iteracio - ciklus - ismetlodes
+szamlalos ciklus
+ciklus i = kezdoertek - vegertekig leptetes
+	ciklus meg;
+c.v.
+
+eloltesztelos ciklus
+ciklus amig (feltetelek(ek))
+	ciklus mag;
+c.v.
+
+hatul tesztelos 
+
+csinald
+	ciklus mag;
+amig (feltetel(ek));
+
+
+program program_nev (valtozok)
+	folyamat;
+pr.v.
+
+Program Feladat1()
+	be:a,b:egész
+	ha(a>b)
+		c = a;
+		a = b;
+		b = c;
+	e.v
+	ciklus i = a-tol b-ig egyesevel
+	     ki:i;
+      c.v.
+pr.v.			   
+           	
