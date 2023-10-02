@@ -1,0 +1,7 @@
+H:\IPI\11.mindenweb\asztali alkalmazas\szovegkezeles2\szovegkezeles2\obj\Debug\szovegkezeles2.csproj.AssemblyReference.cache
+H:\IPI\11.mindenweb\asztali alkalmazas\szovegkezeles2\szovegkezeles2\obj\Debug\szovegkezeles2.csproj.CoreCompileInputs.cache
+H:\IPI\11.mindenweb\asztali alkalmazas\szovegkezeles2\szovegkezeles2\bin\Debug\szovegkezeles2.exe.config
+H:\IPI\11.mindenweb\asztali alkalmazas\szovegkezeles2\szovegkezeles2\bin\Debug\szovegkezeles2.exe
+H:\IPI\11.mindenweb\asztali alkalmazas\szovegkezeles2\szovegkezeles2\bin\Debug\szovegkezeles2.pdb
+H:\IPI\11.mindenweb\asztali alkalmazas\szovegkezeles2\szovegkezeles2\obj\Debug\szovegkezeles2.exe
+H:\IPI\11.mindenweb\asztali alkalmazas\szovegkezeles2\szovegkezeles2\obj\Debug\szovegkezeles2.pdb

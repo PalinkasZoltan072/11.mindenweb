@@ -50,7 +50,7 @@ namespace Szovegkezeles
             char ű = Convert.ToChar(m);
 
 
-            for (int i = 1;i<szoveg.Length;i += 2)
+            for (int i = 1;i<szoveg.Length;i += 1)
             {
                 
                 if (szoveg[i] == ű)
@@ -96,10 +96,13 @@ namespace Szovegkezeles
             // 17
             Console.WriteLine();
 
+            string forditott = "";
+
             for (int i =(v.Length-1); i >= 0; i -= 1)
             {
                 
                 Console.WriteLine(v[i]);
+                forditott += v[i];
 
             }
             Console.WriteLine();
