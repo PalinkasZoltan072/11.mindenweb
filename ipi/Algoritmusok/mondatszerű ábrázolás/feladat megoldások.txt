@@ -1,0 +1,9 @@
+program()
+	osszeg = 0;
+	i = 1;
+	ciklus amíg (i<101)
+		osszeg = osszeg + i;
+		i = i + 1;
+	c.v.
+	Ki: osszeg;
+program;

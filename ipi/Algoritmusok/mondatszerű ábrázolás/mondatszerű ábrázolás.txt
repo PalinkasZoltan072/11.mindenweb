@@ -1,0 +1,30 @@
+változó = kezdőérték;
+% - mod - maradék
+/ - div - egészrész
+!= - <> - nem egyenlő
+&& - and - és
+|| - or - vagy
+Be: a,b,c
+Ki: "valami", a
+
+ha(feltétel(ek))
+	szekvencia1;
+különben
+	szekvencia2;
+e.v.
+	
+ciklus i = kezdőértéktől - végértékig léptetés (ha nincs léptetés 1-gyel növelés)
+	Ciklus mag;
+ciklus vége c.v.
+
+ciklus amíg(feltétel(ek))
+	Ciklus mag;
+c.v.
+
+csináld
+	Ciklus mag;
+amíg(feltétel(ek));
+
+program(paraméterek)
+	Program szerkezete;
+pr.v.

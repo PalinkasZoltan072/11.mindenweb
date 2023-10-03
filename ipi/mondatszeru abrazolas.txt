@@ -56,3 +56,46 @@ Program Feladat1()
       c.v.
 pr.v.			   
            	
+
+
+
+Feladat 1
+progran feladat()
+
+osszeg = 0
+i = 1
+
+      ciklus(i < 101);
+	osszeg += 1
+	i = i+1
+     c.v
+   ki: osszeg
+pr.v.
+
+
+
+
+
+feladat 2
+
+program
+i = 1
+fej = 0
+iras= 0
+
+
+	ciklus(i<1001)
+		ha(dobas = fej)
+			fej = fej+1
+			i = i + 1
+		kulonben
+			iras = iras +1
+			i = i + 1
+		c.v
+	ki: fej iras
+
+
+pr.v
+
+
+
