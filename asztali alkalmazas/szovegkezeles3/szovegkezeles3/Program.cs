@@ -24,15 +24,49 @@ namespace szovegkezeles3
 
             Console.WriteLine("egy dubla betut");
             string bet = Console.ReadLine();
+            string b = "senki sem tokeletes de a  programozok atkozottul kozel allnak hozza.";
             while (bet.Length != 2)
             {
                 
                 bet = Console.ReadLine();
             }
+
+            int i = 0;
+            while (i < b.Length-1 && !(b[i] == bet[0] && (b[i+1] == bet[1])))
+            {
+                i += 1;
+            }
+            if (i < b.Length - 1) 
+            {
+                Console.WriteLine("Van benne {0} dupla betű.", bet);
+            }
+            else
+            {
+                Console.WriteLine("Nincs {0} dupla betű.", bet);
+            }
+
+            // Ascii kód
+
+            // karakter abrazolas
+            // S = 83, e = 101
+            char karakter = 'c';
+            Console.WriteLine(karakter);
+            int karakterkod = (int)karakter;
+            int kk = 100;
+            
+            char k = (char)kk;
+            Console.WriteLine(kk);
+
+            //hf jelszo generalas kerjen be a felhaszn.tol a teljes nevet (feltetelezzuk 2 szbol all pl kis pista) generalj ki neki egy felhasznalo nevet ket szo elso harom betujebol(kisbetuket legyenek)generalj melle 10 hosszu kis es nagy betukbol allo jelszot
+
+
+
+
+
             Console.WriteLine();
 
 
-
+            /*
             char a1 = bet[0];
             char a2 = bet[1];
             int c = 0;
@@ -52,6 +86,9 @@ namespace szovegkezeles3
 
             }
 
+            
+
+
 
             if (c > 0)
             {
@@ -61,7 +98,8 @@ namespace szovegkezeles3
             {
                 Console.WriteLine("nincs benne");
             }
-            
+                */
+
             Console.ReadKey();
         }
     }
