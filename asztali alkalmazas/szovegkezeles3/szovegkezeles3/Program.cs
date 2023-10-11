@@ -61,9 +61,72 @@ namespace szovegkezeles3
 
 
 
+            string nev = "Kis Pista";
+            Console.WriteLine(nev);
 
+            string vnev = "", knev = "";
 
-            Console.WriteLine();
+            int j = 0;
+
+            while (j < nev.Length && nev[j] != ' ')
+            {
+                vnev += nev[j];
+                j += 1;
+            }
+
+            j = nev.Length - 1;
+
+            while (j>= 0 && nev[j] != ' ')
+            {
+                knev = nev[j] + knev;
+                j -= 1;
+            }
+
+            Console.WriteLine(vnev);
+            Console.WriteLine(knev);
+
+            string azonosito = "";
+
+            if (vnev.Length< 3)
+            {
+                azonosito += vnev;
+            }
+            else
+            {
+                azonosito += ""+vnev[0] + vnev[1] + vnev[2];
+            }
+
+            if (knev.Length < 3)
+            {
+                azonosito += knev;
+            }
+            else
+            {
+                azonosito += ""+ knev[0] + knev[1] + knev[2];
+            }
+
+            knev = knev.ToLower();
+            vnev = vnev.ToLower();
+            //knev = knev.ToUpper();
+
+            Random r = new Random;
+            string jelszo = "";
+            for (int x = 0; x < 10; x++)
+            {
+                int milegyen = r.Next(1, 4);
+                if (milegyen == 1)
+                {
+                    jelszo += (char)r.Next(97, 123);
+                }
+                else if (milegyen == 2)
+                {
+                    jelszo += (char)r.Next(65, 91);
+                }
+                else
+                {
+                    jelszo += (char)r.Next(0, 10);
+                }
+            }
 
 
             /*
