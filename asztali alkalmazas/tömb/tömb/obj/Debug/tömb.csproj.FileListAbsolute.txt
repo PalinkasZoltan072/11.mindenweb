@@ -1,0 +1,7 @@
+H:\IPI\11.mindenweb\asztali alkalmazas\tömb\tömb\bin\Debug\tömb.exe.config
+H:\IPI\11.mindenweb\asztali alkalmazas\tömb\tömb\bin\Debug\tömb.exe
+H:\IPI\11.mindenweb\asztali alkalmazas\tömb\tömb\bin\Debug\tömb.pdb
+H:\IPI\11.mindenweb\asztali alkalmazas\tömb\tömb\obj\Debug\tömb.csproj.AssemblyReference.cache
+H:\IPI\11.mindenweb\asztali alkalmazas\tömb\tömb\obj\Debug\tömb.csproj.CoreCompileInputs.cache
+H:\IPI\11.mindenweb\asztali alkalmazas\tömb\tömb\obj\Debug\tömb.exe
+H:\IPI\11.mindenweb\asztali alkalmazas\tömb\tömb\obj\Debug\tömb.pdb
