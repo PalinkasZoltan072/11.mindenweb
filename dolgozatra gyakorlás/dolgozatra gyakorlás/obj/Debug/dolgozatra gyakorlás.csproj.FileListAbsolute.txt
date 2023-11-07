@@ -1,0 +1,7 @@
+C:\Users\palinkas.zoltan\source\repos\dolgozatra gyakorlás\dolgozatra gyakorlás\bin\Debug\dolgozatra gyakorlás.exe.config
+C:\Users\palinkas.zoltan\source\repos\dolgozatra gyakorlás\dolgozatra gyakorlás\bin\Debug\dolgozatra gyakorlás.exe
+C:\Users\palinkas.zoltan\source\repos\dolgozatra gyakorlás\dolgozatra gyakorlás\bin\Debug\dolgozatra gyakorlás.pdb
+C:\Users\palinkas.zoltan\source\repos\dolgozatra gyakorlás\dolgozatra gyakorlás\obj\Debug\dolgozatra gyakorlás.csproj.AssemblyReference.cache
+C:\Users\palinkas.zoltan\source\repos\dolgozatra gyakorlás\dolgozatra gyakorlás\obj\Debug\dolgozatra gyakorlás.csproj.CoreCompileInputs.cache
+C:\Users\palinkas.zoltan\source\repos\dolgozatra gyakorlás\dolgozatra gyakorlás\obj\Debug\dolgozatra gyakorlás.exe
+C:\Users\palinkas.zoltan\source\repos\dolgozatra gyakorlás\dolgozatra gyakorlás\obj\Debug\dolgozatra gyakorlás.pdb
