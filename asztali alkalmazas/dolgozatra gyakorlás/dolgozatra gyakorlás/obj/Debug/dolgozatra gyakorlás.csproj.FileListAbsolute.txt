@@ -5,3 +5,10 @@ C:\Users\palinkas.zoltan\source\repos\dolgozatra gyakorlás\dolgozatra gyakorlá
 C:\Users\palinkas.zoltan\source\repos\dolgozatra gyakorlás\dolgozatra gyakorlás\obj\Debug\dolgozatra gyakorlás.csproj.CoreCompileInputs.cache
 C:\Users\palinkas.zoltan\source\repos\dolgozatra gyakorlás\dolgozatra gyakorlás\obj\Debug\dolgozatra gyakorlás.exe
 C:\Users\palinkas.zoltan\source\repos\dolgozatra gyakorlás\dolgozatra gyakorlás\obj\Debug\dolgozatra gyakorlás.pdb
+H:\IPI\11.mindenweb\asztali alkalmazas\dolgozatra gyakorlás\dolgozatra gyakorlás\bin\Debug\dolgozatra gyakorlás.exe.config
+H:\IPI\11.mindenweb\asztali alkalmazas\dolgozatra gyakorlás\dolgozatra gyakorlás\bin\Debug\dolgozatra gyakorlás.exe
+H:\IPI\11.mindenweb\asztali alkalmazas\dolgozatra gyakorlás\dolgozatra gyakorlás\bin\Debug\dolgozatra gyakorlás.pdb
+H:\IPI\11.mindenweb\asztali alkalmazas\dolgozatra gyakorlás\dolgozatra gyakorlás\obj\Debug\dolgozatra gyakorlás.csproj.AssemblyReference.cache
+H:\IPI\11.mindenweb\asztali alkalmazas\dolgozatra gyakorlás\dolgozatra gyakorlás\obj\Debug\dolgozatra gyakorlás.csproj.CoreCompileInputs.cache
+H:\IPI\11.mindenweb\asztali alkalmazas\dolgozatra gyakorlás\dolgozatra gyakorlás\obj\Debug\dolgozatra gyakorlás.exe
+H:\IPI\11.mindenweb\asztali alkalmazas\dolgozatra gyakorlás\dolgozatra gyakorlás\obj\Debug\dolgozatra gyakorlás.pdb

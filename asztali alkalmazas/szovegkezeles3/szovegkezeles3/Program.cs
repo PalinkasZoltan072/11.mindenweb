@@ -109,7 +109,7 @@ namespace szovegkezeles3
             vnev = vnev.ToLower();
             //knev = knev.ToUpper();
 
-            Random r = new Random;
+            Random r = new Random();
             string jelszo = "";
             for (int x = 0; x < 10; x++)
             {

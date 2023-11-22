@@ -36,6 +36,15 @@ namespace dolgozatra_gyakorlás
             Console.WriteLine("gyok osszeadas " + Math.Round(Math.Sqrt(gyok),2 ) );
 
 
+            Console.Write("max egy 20 karakteres szoveg");
+            string j = Console.ReadLine();
+
+            while (j.Length != 20 && j.Length > 20)
+            {
+                Console.WriteLine("rosszat adtal meg: ");
+                j = Console.ReadLine();
+            }
+
 
             Console.ReadKey();
         }
