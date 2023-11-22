@@ -14,20 +14,23 @@ namespace forditva_gondolkozas
             // toltson fel egy tombot az elso 23 darab 7-el oszthato szammal!
             //keverje ossze a tomb elemeit egy on altal valasztott algoritmussal
             // szamold meg hany csere tortenik amikor a szamot onmagaval csereli ki
-            // HAZI TOLTSON FEL EGY 13 ELEMU TOMBOT [10.31] KOZOTTI SZAMOT UGY HOGY NEM ISMETLODHETAZ ERTEK A TOMBBEN
-
+            // HAZI TOLTSON FEL EGY 13 ELEMU TOMBOT [10.30] KOZOTTI SZAMOT UGY HOGY NEM ISMETLODHETAZ ERTEK A TOMBBEN
+            int[] tomb2 = new int[13];
             int[] tomb = new int[23];
+            
             int szam = 0;
             int db = 0;
+            
             int i = 0;
+            int i2 = 0;
 
-            int db2 = 0; 
+            int db2 = 0;
 
 
 
-
+            tombfeltoltes2(tomb2, db2, i2);
             tombfeltoltes(tomb, szam, db, i);
-            keveres(tomb, db2);
+            keveres(tomb);
             
             
 
@@ -35,6 +38,44 @@ namespace forditva_gondolkozas
 
 
             Console.ReadKey();
+
+        }
+
+        static void tombfeltoltes2(int[] tomb2,int db2, int i2)
+        {
+
+            while (db2 < 13)
+            {
+                Random r = new Random();
+                int c = r.Next(10, 31);
+                int igazhamis = 0;
+                
+
+                for (int h = 0; h < tomb2.Length; h++)
+                {
+                    if (tomb2[h] == c)
+                    {
+                        igazhamis++;
+                    }
+
+                }
+
+                if (igazhamis == 0)
+                {
+                    tomb2[i2] = c;
+                    i2 += 1;
+
+                    db2 += 1;
+                }
+
+                for (int l = 0; l < tomb2.Length; l++)
+                {
+                    Console.Write(tomb2[l] + " ");
+                }
+                Console.WriteLine();
+                
+            }
+            
 
         }
 
@@ -55,7 +96,7 @@ namespace forditva_gondolkozas
 
         
 
-        static void keveres(int[] tomb, int DB2)
+        static void keveres(int[] tomb)
            {
             Random r = new Random();
 
