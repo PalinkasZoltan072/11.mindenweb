@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\uj web minden\11.mindenweb\asztali alkalmazas\1-es hazi\1-es hazi\bin\Debug\1-es hazi.exe.config
+C:\Users\User\OneDrive\Desktop\uj web minden\11.mindenweb\asztali alkalmazas\1-es hazi\1-es hazi\bin\Debug\1-es hazi.exe
+C:\Users\User\OneDrive\Desktop\uj web minden\11.mindenweb\asztali alkalmazas\1-es hazi\1-es hazi\bin\Debug\1-es hazi.pdb
+C:\Users\User\OneDrive\Desktop\uj web minden\11.mindenweb\asztali alkalmazas\1-es hazi\1-es hazi\obj\Debug\1-es hazi.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\uj web minden\11.mindenweb\asztali alkalmazas\1-es hazi\1-es hazi\obj\Debug\1-es hazi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\uj web minden\11.mindenweb\asztali alkalmazas\1-es hazi\1-es hazi\obj\Debug\1-es hazi.exe
+C:\Users\User\OneDrive\Desktop\uj web minden\11.mindenweb\asztali alkalmazas\1-es hazi\1-es hazi\obj\Debug\1-es hazi.pdb
