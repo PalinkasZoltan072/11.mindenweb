@@ -1,0 +1,53 @@
+szöveges beviteli mezok
+
+<label for="nev">Név:</label>
+        <input type="text" id="nev" name="nev">
+        <img src="ghost.png" alt="szellem">
+        <br>
+
+
+
+<label>Nem:</label>
+        <br>
+        <input type="radio" name="nem" value="1" id="no">
+        <label for="no">Nő</label>
+        <input type="radio" name="nem" value="2" id="ferfi">
+        <label for="ferfi">Férfi</label>
+        <input type="radio" name="nem" value="3" id="nemvalasz" checked>
+        <label for="nemvalasz">Nem válaszolok</label>
+        <br>
+
+
+
+<label>Póló méret:</label>
+        <br>
+        <select name="polo" multiple>
+            <option value="1">XS</option>
+            <option value="2">S</option>
+            <option value="3" selected>M</option>
+            <option value="4">L</option>
+            <option value="5">XL</option>
+            <option value="6" disabled>XXL</option>
+        </select>
+        <br>
+
+
+
+
+<label>Melyik kategóriában indulsz?</label>
+        <select name="kategoria">
+            <optgroup label="Gimnázium">
+                <option value="g9">9. évfolyam</option>
+                <option value="g10">10. évfolyam</option>
+                <option value="g11">11. évfolyam</option>
+                <option value="g12">12. évfolyam</option>
+            </optgroup>
+            <optgroup label="Technikum">
+                <option value="t9">9. évfolyam</option>
+                <option value="t10">10. évfolyam</option>
+                <option value="t11">11. évfolyam</option>
+                <option value="t12">12. évfolyam</option>
+                <option value="t13">13. évfolyam</option>
+            </optgroup>
+        </select>
+        <br>

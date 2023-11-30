@@ -1,0 +1,103 @@
+<h1>Verseny jelentkezés</h1>
+    <!-- Kitekintés: autocomplete="off" -->
+    <form action="verseny.html" method="GET">
+        <!-- Szöveges beviteli mező -->
+        <label for="nev">Név:</label>
+        <input type="text" id="nev" name="nev">
+        <img src="ghost.png" alt="szellem">
+        <br>
+        
+
+        <label for="varos">Város:</label>
+        <input type="text" id="varos">
+        <br>
+
+        <label for="kor">Életkor:</label>
+        <input type="number" id="kor" min="14" max="18" step="1" name="kor">
+        <br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" size="30">
+        <br>
+
+        <label for="jelszo">Jelszó:</label>
+        <!-- <input type="password" id="jelszo" required> -->
+        <input type="password" id="jelszo">
+        <br>
+
+        <label>Nem:</label>
+        <br>
+        <input type="radio" name="nem" value="1" id="no">
+        <label for="no">Nő</label>
+        <input type="radio" name="nem" value="2" id="ferfi">
+        <label for="ferfi">Férfi</label>
+        <input type="radio" name="nem" value="3" id="nemvalasz" checked>
+        <label for="nemvalasz">Nem válaszolok</label>
+        <br>
+
+        <!-- date, datetime-local, time -->
+        <label for="szuletes">Születési idő:</label>
+        <input type="date" id="szuletes" name="szuletes">
+        <br>
+
+        <label for="szin">Kedvenc szín:</label>
+        <input type="color" id="szin">
+        <br>
+
+        <label for="feladat">Beugró feladat megoldása:</label>
+        <input type="file" id="feladat" name="feladat" accept=".zip, .rar" multiple>
+        <br>
+
+        <label>Mennyire kedveled az óriási kisegér videót:</label>
+        <input type="range" name="kiseger" min="10" max="40" value="30">
+        <br>
+
+        <label>Póló méret:</label>
+        <br>
+        <select name="polo" multiple>
+            <option value="1">XS</option>
+            <option value="2">S</option>
+            <option value="3" selected>M</option>
+            <option value="4">L</option>
+            <option value="5">XL</option>
+            <option value="6" disabled>XXL</option>
+        </select>
+        <br>
+
+        <label>Melyik kategóriában indulsz?</label>
+        <select name="kategoria">
+            <optgroup label="Gimnázium">
+                <option value="g9">9. évfolyam</option>
+                <option value="g10">10. évfolyam</option>
+                <option value="g11">11. évfolyam</option>
+                <option value="g12">12. évfolyam</option>
+            </optgroup>
+            <optgroup label="Technikum">
+                <option value="t9">9. évfolyam</option>
+                <option value="t10">10. évfolyam</option>
+                <option value="t11">11. évfolyam</option>
+                <option value="t12">12. évfolyam</option>
+                <option value="t13">13. évfolyam</option>
+            </optgroup>
+        </select>
+        <br>
+
+        <input type="checkbox" id="elfogadom" name="elfogadom" value="1">
+        <label for="elfogadom">Elfogadom a verseny szabályzatot!</label>
+        <br>
+
+        <label for="mj">Megjegyzés:</label>
+        <br>
+        <textarea id="mj" cols="30" rows="5" placeholder="A webprog tanárom a kedvencem, mert..."></textarea>
+        <br>
+
+        <!-- disabled elem nem kerül küldésre -->
+        <label>Azonosító:</label>
+        <input type="text" value="GZSN2A" readonly name="azon">
+        <!-- <span name="azon">GZSN2A</span> -->
+        <br>
+
+        
+        <input type="reset">
+        <input type="submit">
+        <button disabled>Jelentkezés</button>
